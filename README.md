@@ -6,7 +6,8 @@
 📌 1. Requisitos Funcionales (Qué debe hacer el CRM)
 Los requisitos funcionales describen las características y funciones que debe tener el sistema.
 
-🔹 Gestión de Usuarios
+🔹 Gestión de Usuarios:
+
 ✅ Registro e inicio de sesión de usuarios.
 ✅ Roles de usuario (administrador, vendedor, usuario estándar).
 ✅ Administración de cuentas y permisos.
