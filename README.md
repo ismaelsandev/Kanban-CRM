@@ -8,9 +8,12 @@ Los requisitos funcionales describen las características y funciones que debe t
 
 🔹 Gestión de Usuarios:
 
-✅ Registro e inicio de sesión de usuarios.
-✅ Roles de usuario (administrador, vendedor, usuario estándar).
-✅ Administración de cuentas y permisos.
+    ✅ Registro e inicio de sesión de usuarios.
+    
+    ✅ Roles de usuario (administrador, vendedor, usuario estándar).
+    
+    ✅ Administración de cuentas y permisos.
+
 
 🔹 Gestión de Clientes
 ✅ Creación, edición y eliminación de clientes.
