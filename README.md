@@ -1,2 +1,2 @@
-# notherCRM
+# nonlyCRM
 Not only CRM
