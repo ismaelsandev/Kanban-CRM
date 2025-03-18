@@ -1,2 +1,2 @@
 # notherCRM
-It's not another CRM
+Not only CRM
