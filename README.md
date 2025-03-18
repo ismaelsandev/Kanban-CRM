@@ -1,5 +1,5 @@
 # nonlyCRM
-Not only CRM
+"Not only CRM"
 
 Análisis de requisitos
 
@@ -33,3 +33,23 @@ Los requisitos funcionales describen las características y funciones que debe t
 🔹 Reportes y Estadísticas
 ✅ Visualización de métricas de ventas y clientes.
 ✅ Descarga de reportes en formato CSV o PDF.
+
+📌 2. Requisitos No Funcionales (Cómo debe hacerlo el CRM)
+Los requisitos no funcionales establecen criterios de calidad y desempeño del sistema.
+
+🔹 Rendimiento y Escalabilidad
+✅ Debe soportar múltiples usuarios simultáneos sin afectar el rendimiento.
+✅ La base de datos debe estar optimizada para manejar grandes volúmenes de clientes y transacciones.
+
+🔹 Seguridad
+✅ Encriptación de contraseñas y datos sensibles.
+✅ Control de accesos basado en roles.
+✅ Prevención de inyección SQL y ataques XSS.
+
+🔹 Usabilidad y Experiencia de Usuario
+✅ Interfaz intuitiva y fácil de usar.
+✅ Diseño responsive para adaptarse a dispositivos móviles y tablets.
+
+🔹 Compatibilidad e Integración
+✅ Compatible con los navegadores más usados (Chrome, Firefox, Edge).
+✅ Posible integración futura con APIs externas (correo, WhatsApp, facturación).
