@@ -30,19 +30,17 @@ Los requisitos funcionales describen las características y funciones que debe t
 
 ✅ Seguimiento del estado de cada oportunidad (abierta, en negociación, ganada, perdida).
 
-🔹 Gestión de Tareas y Actividades:
+🔹 Gestión de Actividades:
 
-✅ Creación y asignación de tareas a usuarios.
+✅ Creación y asignación de actividades a usuarios.
 
-✅ Visualización de tareas pendientes y finalizadas.
+✅ Visualización de actividades pendientes y finalizadas.
 
-✅ Notificaciones o recordatorios de tareas importantes.
+✅ Notificaciones o recordatorios de actividades importantes.
 
-🔹 Gestión de Notas e Historial de Comunicación:
+🔹 Historial de Comunicación:
 
 ✅ Registro de interacciones con clientes (llamadas, emails, reuniones).
-
-✅ Posibilidad de añadir comentarios o notas a cada cliente.
 
 🔹 Reportes y Estadísticas:
 
@@ -78,7 +76,7 @@ Los requisitos no funcionales establecen criterios de calidad y desempeño del s
 
 ✅ Compatible con los navegadores más usados (Chrome, Firefox, Edge).
 
-✅ Posible integración futura con APIs externas (correo, WhatsApp, facturación).
+✅ Posible integración futura con APIs externas (correo, WhatsApp, Excel).
 
 ## Diagrama de clases UML
 
