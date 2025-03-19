@@ -79,3 +79,7 @@ Los requisitos no funcionales establecen criterios de calidad y desempeño del s
 ✅ Compatible con los navegadores más usados (Chrome, Firefox, Edge).
 
 ✅ Posible integración futura con APIs externas (correo, WhatsApp, facturación).
+
+## Diagrama de clases UML
+
+![Diagrama UML](https://github.com/user-attachments/assets/1b798ef9-1fc7-4abd-9e39-17e3dbb5549f)
