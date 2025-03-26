@@ -1,5 +1,5 @@
 # Kanban-CRM
-"CRM con la vista de Kanban"
+"CRM con la vista Kanban"
 
 ## Análisis de requisitos
 
