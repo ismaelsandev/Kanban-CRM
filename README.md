@@ -1,5 +1,5 @@
-# nonlyCRM
-"Not only CRM"
+# Kanban-CRM
+"CRM con la vista de Kanban"
 
 ## Análisis de requisitos
 
