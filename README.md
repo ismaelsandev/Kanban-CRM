@@ -81,3 +81,13 @@ Los requisitos no funcionales establecen criterios de calidad y desempeño del s
 ## Diagrama de clases UML
 
 ![Diagrama UMLCRM](https://github.com/user-attachments/assets/99f060c2-15e1-49d8-aade-f72403e50a51)
+
+## Mockup
+
+![Desktop - 1](https://github.com/user-attachments/assets/86129e47-f15e-4159-a0ca-5d054f575455)
+
+![Desktop - 2](https://github.com/user-attachments/assets/4457f775-1722-432e-83ff-7341b03383df)
+
+![Desktop - 3](https://github.com/user-attachments/assets/969c2165-edb4-4e90-99d2-b72a51031422)
+
+
