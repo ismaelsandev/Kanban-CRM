@@ -84,10 +84,8 @@ Los requisitos no funcionales establecen criterios de calidad y desempeño del s
 
 ## Mockup
 
-![Desktop - 1](https://github.com/user-attachments/assets/86129e47-f15e-4159-a0ca-5d054f575455)
+![Desktop - 1](https://github.com/user-attachments/assets/034f40d9-6174-4202-bc4b-a24f3e1d92e1)
 
-![Desktop - 2](https://github.com/user-attachments/assets/4457f775-1722-432e-83ff-7341b03383df)
+![Desktop - 2](https://github.com/user-attachments/assets/53ea608b-84d5-4988-b579-83cf1fcaee80)
 
-![Desktop - 3](https://github.com/user-attachments/assets/969c2165-edb4-4e90-99d2-b72a51031422)
-
-
+![Desktop - 3](https://github.com/user-attachments/assets/00f2fd79-8361-4311-840b-1b76f2894e6c)
